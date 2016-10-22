@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QFormatEditor.ui</file>
+    </qresource>
+</RCC>
